@@ -39,7 +39,7 @@ Change these in Nexus → Options → **Keybinds**:
 | Show / hide overlay | Ctrl+Alt+H |
 | Toggle edit mode | Ctrl+Alt+E |
 | Reset all timers | Ctrl+Alt+R |
-| Switch to next profile | Unbound |
+
 
 Each widget can also have its own keybind. Set them in the addon's options under **Widget keybinds (by profile)**.
 
